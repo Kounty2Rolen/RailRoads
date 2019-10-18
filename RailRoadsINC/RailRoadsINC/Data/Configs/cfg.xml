@@ -1,0 +1,5 @@
+<xml>
+	<passwordhash hash=""></passwordhash>
+  <path path="\Data\Database\RailRoads.mdf"></path>
+  <ThisCity City="Vladimir"></ThisCity>
+</xml>
